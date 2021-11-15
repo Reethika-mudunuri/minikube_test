@@ -1,3 +1,6 @@
-* The python program and kubernetes cluster are running remotely. It can be also be modified where python program can run from anywhere.
+Future Improvements
+==
 
-* Program can be made to run in such a way that it can automate the rules directly from the task_rules.yaml file
+1. Add unit-tests and run them using pytest.
+2. Currently, the application runs against a kubernetes cluster that runs locally, enhance it so that it can run against any remote kubernetes cluster.
+3. Codify the rules in an yaml file.
