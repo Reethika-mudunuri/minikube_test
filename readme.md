@@ -52,6 +52,10 @@ This will display the results of rules for each pod using pretty print to the co
 
 Development & Testing
 --
+Run unit tests 
+```
+pytest tests/test.py
+```
 
 References
 --
